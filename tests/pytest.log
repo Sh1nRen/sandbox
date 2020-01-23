@@ -1,0 +1,4 @@
+2020-01-23 10:08:48 [   DEBUG] Starting new HTTPS connection (1): api.newbookmodels.com:443 (connectionpool.py:813)
+2020-01-23 10:08:49 [   DEBUG] https://api.newbookmodels.com:443 "POST /api/v1/auth/client/signup/ HTTP/1.1" 201 2043 (connectionpool.py:393)
+2020-01-23 10:08:49 [   DEBUG] Starting new HTTPS connection (1): api.newbookmodels.com:443 (connectionpool.py:813)
+2020-01-23 10:08:49 [   DEBUG] https://api.newbookmodels.com:443 "POST /api/v1/auth/client/signup/ HTTP/1.1" 201 2043 (connectionpool.py:393)
